@@ -1,0 +1,6 @@
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\bin\Debug\ShoppingCartDb.dacpac
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\obj\Debug\ShoppingCartDb.sqlproj.AssemblyReference.cache
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\obj\Debug\ShoppingCartDb.dll
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\obj\Debug\ShoppingCartDb.pdb
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\bin\Debug\ShoppingCartDb.dll
+D:\PRN231\Project Final\ShoppingCart\ShoppingCartDb\bin\Debug\ShoppingCartDb.pdb

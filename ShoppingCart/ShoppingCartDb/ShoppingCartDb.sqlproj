@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{2e6e90de-6384-42aa-83d3-86b6f27cd166}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -56,5 +56,28 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="Tables" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ShoppingCartDb.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tables\Departments.sql" />
+    <Build Include="Tables\Classes.sql" />
+    <Build Include="Tables\Manufactures.sql" />
+    <Build Include="Tables\Products.sql" />
+    <Build Include="Tables\ReceiptLine.sql" />
+    <Build Include="Tables\Receipts.sql" />
+    <Build Include="Tables\Taxes.sql" />
+    <Build Include="Tables\ShipAddresses.sql" />
+    <Build Include="Tables\ShipMethods.sql" />
+    <Build Include="Tables\shiprates.sql" />
+    <Build Include="Tables\ShoppingCartLine.sql" />
+    <Build Include="Tables\Taxrates.sql" />
+    <Build Include="Tables\Skus.sql" />
+    <Build Include="Tables\SubClasses.sql" />
+    <Build Include="Tables\States.sql" />
+    <Build Include="Tables\Customers.sql" />
+    <Build Include="Tables\ShoppingCartHeader.sql" />
   </ItemGroup>
 </Project>
