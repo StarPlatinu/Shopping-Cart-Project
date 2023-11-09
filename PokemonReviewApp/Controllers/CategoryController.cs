@@ -30,5 +30,9 @@ namespace PokemonReviewApp.Controllers
 
             return Ok(category);
         }
+
+
+
+
     }
 }

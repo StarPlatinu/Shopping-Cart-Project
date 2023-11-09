@@ -3133,11 +3133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN231\\Study API\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectUniqueName": "D:\\PRN231\\Project Final\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "D:\\PRN231\\Study API\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectPath": "D:\\PRN231\\Project Final\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN231\\Study API\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+      "outputPath": "D:\\PRN231\\Project Final\\PokemonReviewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
