@@ -5,7 +5,7 @@
 namespace BusinessObjects.Migrations
 {
     /// <inheritdoc />
-    public partial class Updateconstraint : Migration
+    public partial class AddContrains : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

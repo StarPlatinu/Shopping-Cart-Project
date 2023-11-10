@@ -96,7 +96,7 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     var userManager = services.GetRequiredService<UserManager<Customer>>();
 
-    string email = configuration["Credentials:Email"];
+    string email = configuration["Credentials:email"];
     string password = configuration["Credentials:Password"];
 
     if (await userManager.FindByEmailAsync(email) == null)

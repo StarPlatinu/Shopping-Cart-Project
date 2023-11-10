@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BusinessObjects.Migrations
 {
     [DbContext(typeof(MyDBContext))]
-    [Migration("20230621002726_Update constraints")]
-    partial class Updateconstraints
+    [Migration("20231110062045_AddContrains")]
+    partial class AddContrains
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
