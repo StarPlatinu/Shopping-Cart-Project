@@ -41,14 +41,14 @@ namespace BusinessObjects
                 {
                     SupplierID = 1,
                     SupplierName = "Flower Shop Ciaoflora",
-                    SupplierAddress = "46 Nguyen Thai Binh, Ho Chi Minh",
+                    SupplierAddress = "Dai Hoc FPT, Ha Noi",
                     Telephone = "0123456789"
                 },
                 new Supplier
                 {
                     SupplierID = 2,
                     SupplierName = "Ant Flower",
-                    SupplierAddress = "46 Nguyen Chanh Sat, Vung Tau",
+                    SupplierAddress = "Dai Hoc FPT Co So 2, Ha Noi",
                     Telephone = "0123456789"
                 }
                 );
